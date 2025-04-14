@@ -1,6 +1,6 @@
 # CRUD FastAPI - Sistema de Gestão de Materiais
 
-Projeto desenvolvido para otimizar o controle de inventário no Exército Brasileiro.
+Projeto desenvolvido para otimizar o controle de inventário no Exército Brasileiro em 2024.
 
 ## 🛠 Tecnologias
 - Python
