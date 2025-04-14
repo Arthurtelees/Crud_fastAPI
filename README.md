@@ -12,3 +12,4 @@ Projeto desenvolvido para otimizar o controle de inventário no Exército Brasil
 1. Instale as dependências:
    ```bash
    pip install fastapi uvicorn
+Desenvolvido por Arthur Teles 🚀
