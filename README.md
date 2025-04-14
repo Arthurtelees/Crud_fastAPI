@@ -3,7 +3,7 @@
 Projeto desenvolvido para otimizar o controle de inventário no Exército Brasileiro.
 
 ## 🛠 Tecnologias
-- Python 3
+- Python
 - FastAPI
 - SQLite
 - Pydantic
