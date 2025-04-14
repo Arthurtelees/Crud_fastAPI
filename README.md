@@ -8,7 +8,7 @@ Projeto desenvolvido para otimizar o controle de inventário no Exército Brasil
 - SQLite
 - Pydantic
 
-## ▶️ Como Executar
+## ▶️ Como Executar ?
 1. Instale as dependências:
    ```bash
    pip install fastapi uvicorn
